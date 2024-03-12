@@ -67,6 +67,5 @@ Queens in data analysis (highest number of views and videos):
 ### DISTRIBUTIONS
 
 ### NUMBER OF VIEWS & VIDEOS
-paste images here
-
+[(https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/mostvideos_US.png)]
 
