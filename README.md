@@ -1,5 +1,5 @@
 # rupaulsdragrace_youtube
-Web scraping, data analysis, and data visualization of the number of views, distribution of views and number of videos of different countries, video types, US and All Stars seasons, and queens of WowPresents YouTube channels.
+Web scraping, data analysis, and data visualization of the number of views, distribution of views and number of videos of different countries, video types, US and All Stars seasons, and queens of WowPresents YouTube channels. 
 
 ## CONCLUSIONS
 
