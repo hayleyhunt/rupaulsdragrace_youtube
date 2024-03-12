@@ -65,7 +65,65 @@ Queens in data analysis (highest number of views and videos):
 ## RESULTS
 
 ### DISTRIBUTIONS
+Countries
+![views_country_dist](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/views_country_dist.png)
+
+US Seasons
+![views_USseasons_dist](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/views_USseasons_dist.png)
+
+All Star Seasons
+![views_allstars_dist](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/views_allstars_dist.png)
+
+Video types
+![views_type_dist](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/views_type_dist.png)
+
 
 ### NUMBER OF VIEWS & VIDEOS
+Countries
+![mostviews_country](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/mostviews_country.png)
+![mostvideos_country](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/mostvideos_country.png)
+
+Queens
+![mostviews_queens](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/mostviews_queens.png)
+![mostvideos_queens](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/mostvideos_queens.png)
+
+US Seasons
+![mostviews_US](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/mostviews_US.png)
 ![mostvideos_US](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/mostvideos_US.png)
+
+
+All Star Seasons
+![mostviews_allstars](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/mostviews_allstars.png)
+![mostvideos_allstars](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/mostvideos_allstars.png)
+
+Video types
+![mostviews_type](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/mostviews_type.png)
+![mostvideos_type](https://github.com/hayleyhunt/rupaulsdragrace_youtube/blob/main/mostvideos_type.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
